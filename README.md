@@ -5,7 +5,7 @@
 #####.npm start
 
 #### inside the folder calculator_TVVS/client execute the following commands:
-#####.npm install
-#####.npm start
+#####npm install
+#####npm start
 
 
