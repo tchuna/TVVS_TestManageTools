@@ -1,0 +1,43 @@
+#calcContainer
+{
+	width: 400px;
+    height: 200px;
+    margin: auto;
+    position: absolute;
+    top: calc(50% - 70px);
+    left: calc(50% - 200px);
+}
+
+#calcForm
+{
+	border: 1px solid black;
+    padding: 20px;
+}
+#calcBtn
+{
+	width: 120px;
+    height: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: gold;
+}
+#calcResult
+{
+	font-size: 2rem;
+}
+.calc-header{
+	text-align: center;
+    font-size: 4rem;
+    font-style: italic;
+    color: indianred;
+}
+.calc-input-instruction
+{
+	width: 160px;
+	margin-right: 20px;
+    display: inline-block;
+}
+.calc-label
+{
+	margin-right: 1.5rem;
+}
